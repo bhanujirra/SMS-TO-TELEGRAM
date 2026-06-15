@@ -1,0 +1,21 @@
+# Local configuration — contains SDK path and signing secrets
+local.properties
+
+# Keystore files — never commit signing keys
+*.keystore
+*.jks
+
+# Build outputs
+build/
+app/build/
+app/release/
+
+# IDE files
+.idea/
+*.iml
+
+# Gradle cache
+.gradle/
+
+# macOS
+.DS_Store

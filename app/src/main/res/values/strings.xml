@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="app_subtitle">Forward Aadhaar OTPs to your team</string>
+
+    <!-- Setup guide -->
+    <string name="setup_title">Setup Guide</string>
+    <string name="setup_step1">1.  Open Telegram &#8594; search <b>@BotFather</b></string>
+    <string name="setup_step2">2.  Send <b>/newbot</b> and follow the prompts</string>
+    <string name="setup_step3">3.  Copy the <b>bot token</b> BotFather gives you</string>
+    <string name="setup_step4">4.  Create a Telegram group &#8594; add your bot as a member</string>
+    <string name="setup_step5">5.  Send any message inside that group</string>
+    <string name="setup_step6">6.  Paste the token below and tap <b>Fetch My Groups</b></string>
+
+    <!-- Config card -->
+    <string name="section_config">Bot Configuration</string>
+    <string name="label_bot_token">Bot Token</string>
+    <string name="helper_bot_token">Paste the token from @BotFather</string>
+    <string name="btn_fetch">Fetch My Groups</string>
+    <string name="btn_save">Save Settings</string>
+    <string name="label_selected_group">Forwarding to</string>
+    <string name="no_group_selected">No group selected yet</string>
+
+    <!-- Permissions card -->
+    <string name="section_permissions">Permissions</string>
+    <string name="btn_permissions">Grant SMS Permissions</string>
+    <string name="btn_battery">Disable Battery Optimization</string>
+
+    <string name="label_enable">Enable Forwarding</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <color name="ic_launcher_background">#1565C0</color>
+    <color name="screen_background">#EEF2F7</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#003c8f</color>
+    <color name="accent">#00ACC1</color>
+    <color name="status_active">#2E7D32</color>
+    <color name="status_inactive">#C62828</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#5C6BC0</color>
+    <color name="divider">#E8EAF6</color>
+</resources>
